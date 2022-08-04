@@ -55,6 +55,10 @@
   <ItemGroup>
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\my.cs" />
+    <Compile Include="Assets\ooo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\y.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
