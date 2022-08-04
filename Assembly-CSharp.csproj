@@ -58,6 +58,7 @@
     <Compile Include="Assets\ooo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\name.txt" />
     <None Include="Assets\y.txt" />
   </ItemGroup>
   <ItemGroup>
